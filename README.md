@@ -3,22 +3,37 @@ Ambitious and adaptable undergraduate pursuing a B.Tech (Hons.) in Computer Scie
 
 🛠 Technical Skills
 Machine Learning
-Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN
-TensorFlow, Keras, Pandas, NumPy, Scikit-Learn, Matplotlib, OpenCV
+Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+KNN
+TensorFlow
+Keras
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+OpenCV
 
 Artificial Intelligence
-Exploratory Data Analysis (EDA), Power BI
-AI Tools, PyTorch, API Integration
-Computer Vision, Data Wrangling
+Exploratory Data Analysis (EDA)
+Power BI
+AI Tools
+PyTorch
+API Integration
+Computer Vision
+Data Wrangling
 
 Programming Languages
-C/C++, Python, R, Scala
-
-Networking
-TCP/IP, OSI Model, DNS, DHCP, HTTP/HTTPS
+C/C++
+Python
+R
+Scala
 
 Additional Skills
-Vibe Coding, Web Development
+Vibe Coding
+Web Development
 Digital Marketing & Advertisement
 Google Vision
 
