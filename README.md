@@ -1,8 +1,7 @@
 ## Hi there 👋
 Ambitious and adaptable undergraduate pursuing a B.Tech (Hons.) in Computer Science & Engineering (AI/ML). With strong interpersonal abilities and a passion for Artificial Intelligence, I am eager to accelerate my career and make meaningful contributions to forward-thinking organizations
 
-🛠 Technical Skills
-
+##🛠 Technical Skills
 •	Machine Learning
 •	Linear Regression
 •	Logistic Regression
@@ -18,7 +17,7 @@ Ambitious and adaptable undergraduate pursuing a B.Tech (Hons.) in Computer Scie
 •	OpenCV
 
 
-Artificial Intelligence
+##Artificial Intelligence
 •Exploratory Data Analysis (EDA)
 •Power BI
 •AI Tools
@@ -27,7 +26,7 @@ Artificial Intelligence
 •Computer Vision
 •Data Wrangling
 
-Programming Languages
+##Programming Languages
 •C/C++
 •Python
 •R
